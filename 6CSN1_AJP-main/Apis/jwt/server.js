@@ -5,7 +5,7 @@ const log=console.log
 const app=express()
 app.use(express.json())
 
-const secret_key="sadiesink"
+const secret_key="lol"
 
 const user={
     id : 1,
