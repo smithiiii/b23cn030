@@ -9,8 +9,8 @@ const secret_key="sadiesink"
 
 const user={
     id : 1,
-    username:"srihas",
-    password:"sadiesink"
+    username:"lol",
+    password:"lol"
 }
 
 app.post("/login",(req,res)=>{
